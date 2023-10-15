@@ -36,7 +36,7 @@ export const StyleContainer = styled.body`
   }
 
   button {
-    background-color: #723172;
+    background-color: #ffa500 ;
     color: #fff;
     padding: 5px 10px;
     margin-right: 10px;
